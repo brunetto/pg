@@ -1,4 +1,4 @@
 pg
 ==
 
-Parallel Gif maker
+**P**arallel **G**if maker
