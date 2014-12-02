@@ -1,4 +1,7 @@
 pg
 ==
 
-**P**arallel **G**if maker
+Parallel Gif maker
+
+### Placeholder for one of the next projects
+
